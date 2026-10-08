@@ -1,0 +1,1001 @@
+Candidate_ID,Name,Qualification,Experience,Department,Status,Education_Score,Interview_Score,Skills_Score,Final_Score
+C0001,Ravi Sinha,MBA,9,HR,Under Review,78,98,63,81.5
+C0002,Varun Das,B.Sc,9,Data Analytics,Rejected,96,95,88,93.2
+C0003,Ramesh Chowdhury,M.Sc,14,Finance,Selected,96,67,61,73.9
+C0004,Karthik Chowdhury,B.Tech,6,Marketing,Rejected,65,49,58,56.5
+C0005,Sakshi Sharma,M.Sc,13,Finance,Selected,65,74,55,65.6
+C0006,Riya Desai,MCA,3,Finance,Under Review,91,62,97,81.2
+C0007,Sakshi Kapoor,MBA,11,IT,Under Review,97,53,90,77.3
+C0008,Bharat Agarwal,BBA,4,Finance,Selected,58,76,68,68.2
+C0009,Siddharth Gupta,M.Sc,10,Data Analytics,Under Review,91,77,62,76.7
+C0010,Sneha Patel,BCA,12,Marketing,Under Review,73,65,59,65.6
+C0011,Pradeep Banerjee,B.Tech,13,R&D,Selected,75,45,54,56.7
+C0012,Sakshi Choudhary,BBA,9,Sales,Selected,57,97,86,81.7
+C0013,Aditya Agarwal,BBA,9,Operations,Rejected,57,46,79,59.2
+C0014,Shankar Menon,BBA,3,R&D,Under Review,89,52,50,62.5
+C0015,Dhruv Sinha,MCA,2,Operations,Rejected,82,47,66,63.2
+C0016,Sakshi Gupta,B.Tech,6,Data Analytics,Selected,87,91,54,78.7
+C0017,Yash Banerjee,M.Sc,2,IT,Rejected,59,48,57,54.0
+C0018,Srinivas Iyer,BBA,9,R&D,Under Review,74,69,54,66.0
+C0019,Ananya Pillai,BBA,15,Operations,Selected,97,60,89,79.8
+C0020,Vikram Malhotra,M.Tech,2,IT,Selected,97,55,72,72.7
+C0021,Rakesh Das,B.Tech,5,HR,Selected,90,86,82,86.0
+C0022,Monika Desai,B.Tech,9,Operations,Selected,70,49,100,70.6
+C0023,Akshara Pandey,MCA,15,Marketing,Under Review,68,86,74,77.0
+C0024,Krishna Menon,BCA,10,HR,Rejected,81,78,70,76.5
+C0025,Akshara Banerjee,B.Sc,4,R&D,Rejected,84,64,66,70.6
+C0026,Tejas Sinha,B.Tech,10,R&D,Under Review,93,77,52,74.3
+C0027,Sandeep Verma,BBA,11,Operations,Selected,82,92,99,91.1
+C0028,Jahnavi Kulkarni,BBA,5,R&D,Selected,75,94,77,83.2
+C0029,Shivani Kapoor,M.Sc,6,R&D,Under Review,56,86,72,72.8
+C0030,Lakshmi Nair,MCA,11,Data Analytics,Rejected,78,46,76,64.6
+C0031,Lakshmi Das,B.Sc,5,Sales,Selected,96,69,91,83.7
+C0032,Lakshmi Banerjee,MBA,9,Marketing,Rejected,70,49,79,64.3
+C0033,Bharat Banerjee,MBA,8,Marketing,Under Review,56,76,67,67.3
+C0034,Sanjay Banerjee,BCA,12,Marketing,Selected,98,95,85,92.9
+C0035,Siddharth Saxena,M.Sc,2,IT,Under Review,74,92,100,89.0
+C0036,Madhav Malhotra,B.Sc,2,Sales,Under Review,59,97,64,75.7
+C0037,Sandeep Iyer,B.Sc,1,Sales,Selected,94,85,70,83.2
+C0038,Shivani Kumar,MCA,3,R&D,Selected,67,97,87,85.0
+C0039,Lavanya Saxena,BBA,8,Sales,Under Review,62,77,53,65.3
+C0040,Mohit Bhat,BBA,12,Data Analytics,Selected,89,52,81,71.8
+C0041,Charan Rao,B.Sc,12,Sales,Rejected,73,49,60,59.5
+C0042,Girish Desai,B.Tech,5,R&D,Under Review,90,66,58,70.8
+C0043,Shankar Chowdhury,BBA,0,Finance,Selected,98,68,90,83.6
+C0044,Pooja Choudhary,BCA,2,Data Analytics,Selected,79,78,82,79.5
+C0045,Sahil Mishra,B.Sc,12,HR,Selected,86,83,79,82.7
+C0046,Keerthi Sharma,BBA,10,Data Analytics,Selected,76,71,77,74.3
+C0047,Shruti Bhat,BBA,11,R&D,Under Review,96,78,62,78.6
+C0048,Krishna Pillai,M.Sc,15,IT,Selected,89,79,96,87.1
+C0049,Charan Kumar,BBA,6,HR,Under Review,80,56,66,66.2
+C0050,Deepika Desai,BCA,2,Data Analytics,Rejected,83,61,83,74.2
+C0051,Shruti Desai,MCA,13,R&D,Selected,57,97,62,74.5
+C0052,Mahesh Rana,MBA,2,Data Analytics,Under Review,65,98,58,76.1
+C0053,Gauri Mehta,MCA,10,Data Analytics,Rejected,76,47,70,62.6
+C0054,Karthik Sinha,BCA,15,Data Analytics,Selected,87,96,71,85.8
+C0055,Riya Bhat,BBA,15,HR,Rejected,56,52,74,59.8
+C0056,Ananya Gupta,M.Tech,6,Marketing,Rejected,63,73,55,64.6
+C0057,Ashwin Agarwal,B.Sc,10,HR,Rejected,72,58,70,65.8
+C0058,Priya Kumar,MBA,10,Marketing,Selected,86,85,82,84.4
+C0059,Riya Rao,M.Sc,12,Data Analytics,Selected,74,75,54,68.4
+C0060,Aniket Sinha,BCA,6,Finance,Rejected,69,50,60,58.7
+C0061,Naveen Sinha,B.Sc,11,Finance,Selected,90,76,80,81.4
+C0062,Hema Mehta,M.Tech,14,R&D,Selected,71,100,100,91.3
+C0063,Aniket Patel,MCA,1,Sales,Selected,72,56,83,68.9
+C0064,Akshara Gupta,MCA,3,R&D,Rejected,68,57,71,64.5
+C0065,Keerthi Kulkarni,MCA,3,R&D,Selected,94,66,80,78.6
+C0066,Srinivas Singh,B.Sc,2,Operations,Selected,89,69,75,76.8
+C0067,Anusha Menon,BCA,2,Finance,Selected,78,89,59,76.7
+C0068,Surya Pandey,B.Sc,4,Sales,Rejected,78,49,55,59.5
+C0069,Pavan Mishra,M.Sc,5,Sales,Selected,94,66,84,79.8
+C0070,Monika Mishra,B.Tech,5,Data Analytics,Under Review,59,48,95,65.4
+C0071,Sakshi Pandey,M.Sc,11,R&D,Under Review,82,46,70,64.0
+C0072,Sahil Sinha,MCA,1,IT,Selected,95,47,78,70.7
+C0073,Ashwin Kulkarni,M.Sc,10,Operations,Selected,76,73,99,81.7
+C0074,Vaishnavi Saxena,M.Tech,6,R&D,Under Review,88,79,83,82.9
+C0075,Esha Patel,B.Tech,5,Finance,Selected,80,90,71,81.3
+C0076,Mahesh Rao,B.Tech,5,Marketing,Selected,70,77,67,71.9
+C0077,Riya Iyer,BBA,0,Sales,Selected,62,84,58,69.6
+C0078,Tejas Pandey,BCA,11,Operations,Selected,69,100,71,82.0
+C0079,Akshara Sinha,MCA,8,R&D,Under Review,86,62,69,71.3
+C0080,Divya Singh,MBA,10,Operations,Selected,94,85,62,80.8
+C0081,Sandeep Bhat,M.Tech,2,Data Analytics,Selected,57,93,97,83.4
+C0082,Harsha Patel,M.Sc,2,Marketing,Selected,90,73,63,75.1
+C0083,Simran Rao,MCA,14,Operations,Selected,64,100,76,82.0
+C0084,Pranav Sinha,BBA,15,Sales,Under Review,58,65,96,72.2
+C0085,Harsha Nair,MCA,15,Sales,Under Review,62,54,71,61.5
+C0086,Shankar Kapoor,M.Tech,10,Data Analytics,Under Review,75,89,65,77.6
+C0087,Girish Kumar,BCA,6,IT,Selected,87,45,86,69.9
+C0088,Pavan Joshi,M.Sc,5,Data Analytics,Under Review,84,59,58,66.2
+C0089,Krishna Sharma,B.Sc,10,Finance,Under Review,86,63,64,70.2
+C0090,Deepika Menon,B.Tech,8,Marketing,Rejected,62,47,68,57.8
+C0091,Hema Nair,MBA,15,Finance,Rejected,80,50,67,64.1
+C0092,Ramesh Nair,M.Tech,5,Operations,Rejected,61,65,59,62.0
+C0093,Nandini Gupta,M.Sc,10,Data Analytics,Under Review,80,73,97,82.3
+C0094,Neha Chowdhury,M.Tech,13,IT,Under Review,78,80,93,83.3
+C0095,Monika Kapoor,MBA,11,Marketing,Under Review,88,59,60,68.0
+C0096,Aniket Choudhary,B.Tech,14,Data Analytics,Selected,57,83,56,67.1
+C0097,Girish Gupta,MBA,14,Operations,Selected,86,46,74,66.4
+C0098,Zoya Mehta,M.Sc,12,Data Analytics,Rejected,79,64,67,69.4
+C0099,Deepika Choudhary,BCA,7,Data Analytics,Selected,82,77,87,81.5
+C0100,Rohit Chowdhury,MBA,14,Data Analytics,Selected,82,90,53,76.5
+C0101,Bharat Saxena,B.Sc,4,Marketing,Selected,79,65,95,78.2
+C0102,Srinivas Verma,M.Sc,1,Finance,Selected,82,88,85,85.3
+C0103,Akash Kapoor,BCA,10,R&D,Selected,84,62,56,66.8
+C0104,Sameer Reddy,B.Sc,15,Data Analytics,Under Review,97,57,63,70.8
+C0105,Aditi Patel,BCA,9,Marketing,Selected,82,87,74,81.6
+C0106,Rahul Reddy,MCA,0,R&D,Under Review,71,70,56,66.1
+C0107,Ishita Rao,MBA,3,Marketing,Rejected,68,51,80,64.8
+C0108,Keerthi Nair,B.Tech,10,R&D,Under Review,55,87,97,80.4
+C0109,Neha Gupta,B.Sc,3,Operations,Rejected,68,56,56,59.6
+C0110,Siddharth Malhotra,BCA,0,Data Analytics,Selected,87,90,98,91.5
+C0111,Naveen Saxena,MCA,2,Data Analytics,Selected,69,71,98,78.5
+C0112,Lakshmi Kumar,MBA,5,Data Analytics,Selected,98,55,73,73.3
+C0113,Keerthi Sinha,BBA,13,Operations,Under Review,62,73,69,68.5
+C0114,Manish Choudhary,M.Tech,13,IT,Selected,58,50,58,54.8
+C0115,Aniket Singh,M.Tech,12,Sales,Under Review,66,73,88,75.4
+C0116,Bharat Desai,M.Sc,14,Sales,Selected,80,72,89,79.5
+C0117,Priya Reddy,M.Sc,15,Marketing,Under Review,59,72,67,66.6
+C0118,Meera Pillai,MBA,8,IT,Selected,94,98,88,93.8
+C0119,Sanjay Naidu,BCA,14,R&D,Selected,94,69,60,73.8
+C0120,Tanvi Choudhary,BBA,0,IT,Rejected,71,73,57,67.6
+C0121,Akash Menon,B.Sc,0,Data Analytics,Under Review,90,55,76,71.8
+C0122,Arjun Sharma,BBA,11,IT,Under Review,74,58,88,71.8
+C0123,Raj Das,BCA,8,R&D,Under Review,55,54,72,59.7
+C0124,Priya Kulkarni,M.Sc,1,Data Analytics,Rejected,82,60,84,73.8
+C0125,Mohit Das,BBA,6,Operations,Under Review,62,89,88,80.6
+C0126,Sakshi Nair,B.Sc,15,IT,Rejected,88,95,78,87.8
+C0127,Arjun Joshi,MBA,7,Data Analytics,Rejected,76,47,66,61.4
+C0128,Vamsi Singh,BCA,3,Sales,Rejected,65,87,58,71.7
+C0129,Raj Kulkarni,M.Tech,9,Finance,Under Review,62,87,78,76.8
+C0130,Deepika Chowdhury,B.Tech,14,Data Analytics,Selected,74,66,97,77.7
+C0131,Charan Mishra,M.Tech,8,Operations,Rejected,63,53,60,58.1
+C0132,Vamsi Chowdhury,BBA,0,R&D,Selected,69,93,70,78.9
+C0133,Dinesh Saxena,BCA,13,IT,Under Review,72,57,68,64.8
+C0134,Bharat Patel,MBA,14,Finance,Selected,60,70,84,71.2
+C0135,Raj Sinha,BBA,12,HR,Rejected,82,56,54,63.2
+C0136,Kavya Reddy,B.Sc,3,IT,Selected,70,65,61,65.3
+C0137,Varun Rao,BCA,11,Marketing,Selected,57,47,72,57.5
+C0138,Shruti Saxena,BCA,14,Operations,Under Review,83,64,82,75.1
+C0139,Lakshmi Patel,MBA,1,HR,Selected,55,77,56,64.1
+C0140,Neha Reddy,MCA,4,IT,Selected,94,91,63,83.5
+C0141,Kavya Rana,BBA,8,Data Analytics,Rejected,86,50,58,63.2
+C0142,Divya Choudhary,BCA,13,Finance,Under Review,89,90,81,87.0
+C0143,Nikhita Saxena,M.Tech,1,R&D,Selected,77,99,65,82.2
+C0144,Pranav Patel,MBA,12,HR,Selected,88,80,56,75.2
+C0145,Aniket Chowdhury,B.Sc,6,Marketing,Selected,83,70,51,68.2
+C0146,Monika Das,MBA,5,HR,Under Review,66,85,53,69.7
+C0147,Yash Gupta,M.Sc,13,HR,Under Review,64,98,50,73.4
+C0148,Esha Malhotra,BBA,7,Finance,Rejected,90,53,71,69.5
+C0149,Anjali Gupta,B.Tech,15,IT,Under Review,60,61,76,65.2
+C0150,Akash Mehta,M.Sc,2,Finance,Selected,82,67,94,79.6
+C0151,Neha Mishra,MBA,6,HR,Rejected,62,62,95,71.9
+C0152,Pranav Joshi,M.Sc,5,IT,Rejected,68,55,100,72.4
+C0153,Zoya Saxena,MCA,4,Data Analytics,Under Review,61,69,100,75.9
+C0154,Shreya Desai,MCA,6,Finance,Selected,89,66,56,69.9
+C0155,Ananya Sinha,B.Tech,5,R&D,Selected,94,56,68,71.0
+C0156,Chaitanya Pillai,MBA,8,Marketing,Selected,62,95,64,75.8
+C0157,Vamsi Pandey,BCA,15,Finance,Under Review,61,45,100,66.3
+C0158,Ravi Choudhary,MCA,10,Data Analytics,Selected,91,93,86,90.3
+C0159,Nikhita Reddy,M.Sc,3,Operations,Rejected,67,48,88,65.7
+C0160,Pradeep Agarwal,BBA,4,HR,Selected,96,51,99,78.9
+C0161,Rohit Menon,MBA,13,Data Analytics,Selected,63,80,90,77.9
+C0162,Krishna Saxena,B.Tech,3,Operations,Selected,81,74,61,72.2
+C0163,Sandeep Sinha,M.Sc,3,HR,Rejected,66,88,56,71.8
+C0164,Simran Kapoor,MBA,12,R&D,Under Review,73,67,72,70.3
+C0165,Varun Sharma,B.Sc,2,Operations,Under Review,86,48,83,69.9
+C0166,Bharat Mehta,B.Sc,0,Marketing,Selected,92,100,69,88.3
+C0167,Ramesh Malhotra,B.Sc,2,HR,Selected,92,45,81,69.9
+C0168,Sahil Singh,B.Sc,15,R&D,Selected,92,96,87,92.1
+C0169,Shankar Malhotra,B.Tech,9,IT,Selected,73,91,95,86.8
+C0170,Nikhil Mishra,B.Tech,11,Marketing,Selected,76,92,52,75.2
+C0171,Shivani Patel,MBA,12,Operations,Under Review,64,48,52,54.0
+C0172,Chaitanya Menon,B.Sc,12,R&D,Under Review,64,45,62,55.8
+C0173,Pradeep Gupta,BCA,12,R&D,Under Review,61,68,58,62.9
+C0174,Pradeep Mehta,BCA,14,IT,Under Review,76,59,64,65.6
+C0175,Simran Agarwal,M.Sc,4,IT,Selected,58,52,56,55.0
+C0176,Kiran Iyer,BCA,10,Marketing,Rejected,57,76,50,62.5
+C0177,Pradeep Chowdhury,B.Tech,3,Operations,Rejected,68,76,88,77.2
+C0178,Surya Mehta,MBA,0,HR,Selected,83,53,80,70.1
+C0179,Rakesh Kapoor,BCA,5,Finance,Under Review,74,92,70,80.0
+C0180,Chaitanya Kumar,B.Sc,1,R&D,Under Review,78,54,86,70.8
+C0181,Vamsi Sinha,MBA,6,HR,Selected,67,81,51,67.8
+C0182,Sanjay Das,M.Tech,13,R&D,Under Review,72,47,90,67.4
+C0183,Tanvi Rana,M.Sc,10,Marketing,Rejected,80,47,74,65.0
+C0184,Nikhil Verma,MBA,6,Finance,Under Review,72,83,96,83.6
+C0185,Anusha Singh,M.Sc,11,Sales,Selected,97,88,94,92.5
+C0186,Rahul Sinha,BBA,3,Data Analytics,Selected,91,62,77,75.2
+C0187,Hema Sinha,M.Tech,3,IT,Rejected,86,97,79,88.3
+C0188,Ramesh Menon,M.Tech,10,Data Analytics,Rejected,75,95,73,82.4
+C0189,Nikhil Iyer,B.Tech,1,IT,Rejected,90,60,52,66.6
+C0190,Aniket Pillai,B.Sc,11,R&D,Selected,91,59,71,72.2
+C0191,Priya Singh,BCA,10,IT,Selected,86,74,78,78.8
+C0192,Pooja Reddy,B.Sc,8,IT,Rejected,78,52,69,64.9
+C0193,Dhruv Banerjee,MBA,10,Sales,Selected,72,89,97,86.3
+C0194,Madhav Singh,MCA,8,IT,Selected,85,66,56,68.7
+C0195,Pavan Agarwal,B.Tech,10,Sales,Under Review,95,92,89,92.0
+C0196,Karthik Gupta,MCA,12,Marketing,Selected,73,98,73,83.0
+C0197,Shruti Patel,M.Tech,13,Operations,Selected,97,90,79,88.8
+C0198,Sameer Patel,MCA,1,Operations,Rejected,61,72,100,77.1
+C0199,Pooja Banerjee,MBA,13,Data Analytics,Selected,79,97,71,83.8
+C0200,Esha Mehta,M.Tech,13,Operations,Selected,60,92,78,78.2
+C0201,Vikram Iyer,MCA,13,Sales,Under Review,77,57,83,70.8
+C0202,Sneha Pandey,M.Tech,6,Data Analytics,Rejected,82,78,71,77.1
+C0203,Esha Mishra,MCA,9,Finance,Under Review,86,66,100,82.2
+C0204,Sakshi Desai,M.Sc,1,Marketing,Rejected,71,82,76,76.9
+C0205,Yash Bhat,B.Tech,5,Marketing,Rejected,86,54,96,76.2
+C0206,Priya Pandey,M.Sc,2,Marketing,Selected,61,75,84,73.5
+C0207,Pavan Kumar,BCA,2,IT,Rejected,71,55,66,63.1
+C0208,Harsha Pandey,B.Sc,15,Operations,Rejected,76,86,60,75.2
+C0209,Anjali Patel,M.Tech,10,Marketing,Rejected,93,66,87,80.4
+C0210,Dhruv Kumar,MCA,5,Finance,Selected,79,84,98,86.7
+C0211,Aarav Rana,B.Tech,10,HR,Under Review,97,49,78,72.1
+C0212,Nikhita Kapoor,B.Tech,4,Data Analytics,Under Review,86,99,72,87.0
+C0213,Pavan Naidu,M.Tech,2,Sales,Rejected,65,50,67,59.6
+C0214,Vikram Desai,M.Sc,3,Marketing,Selected,72,98,63,79.7
+C0215,Shruti Menon,BBA,12,Operations,Selected,71,94,91,86.2
+C0216,Aditi Verma,B.Tech,11,Operations,Selected,72,80,87,79.7
+C0217,Kiran Mehta,M.Sc,8,Finance,Under Review,63,59,90,69.5
+C0218,Naveen Chowdhury,M.Sc,3,Sales,Selected,98,96,61,86.1
+C0219,Pavan Mehta,M.Sc,12,R&D,Under Review,92,90,70,84.6
+C0220,Divya Das,BCA,2,Marketing,Rejected,78,60,96,76.2
+C0221,Pranav Verma,MCA,12,Sales,Under Review,69,70,97,77.8
+C0222,Anjali Agarwal,B.Tech,1,Sales,Selected,74,52,79,66.7
+C0223,Bhavana Menon,BBA,13,R&D,Under Review,87,67,59,70.6
+C0224,Sandeep Rao,MBA,2,Finance,Selected,56,72,92,73.2
+C0225,Yash Choudhary,BCA,2,HR,Rejected,56,45,70,55.8
+C0226,Akash Reddy,B.Sc,0,IT,Selected,84,65,99,80.9
+C0227,Mahesh Pillai,M.Tech,7,IT,Under Review,96,81,61,79.5
+C0228,Tejas Mishra,MBA,0,IT,Rejected,74,48,70,62.4
+C0229,Naveen Kulkarni,B.Sc,9,R&D,Selected,97,78,74,82.5
+C0230,Simran Malhotra,MBA,12,R&D,Selected,80,74,99,83.3
+C0231,Rahul Pillai,MCA,3,R&D,Under Review,78,60,97,76.5
+C0232,Raj Desai,MBA,8,Operations,Under Review,69,45,59,56.4
+C0233,Aarav Rao,B.Sc,2,Finance,Under Review,60,95,56,72.8
+C0234,Surya Pillai,B.Sc,0,Operations,Under Review,75,62,71,68.6
+C0235,Karthik Nair,M.Tech,0,R&D,Selected,65,88,52,70.3
+C0236,Deepika Kulkarni,BCA,0,HR,Under Review,62,53,70,60.8
+C0237,Varun Choudhary,BBA,15,Data Analytics,Selected,95,88,86,89.5
+C0238,Mohit Joshi,M.Sc,8,IT,Selected,66,96,75,80.7
+C0239,Pavan Menon,M.Sc,8,HR,Rejected,95,72,83,82.2
+C0240,Anusha Verma,BBA,13,IT,Under Review,69,47,79,63.2
+C0241,Deepika Das,MBA,15,Operations,Rejected,60,47,51,52.1
+C0242,Vaishnavi Verma,B.Sc,13,Operations,Under Review,93,80,75,82.4
+C0243,Harsha Banerjee,B.Sc,12,HR,Selected,91,67,81,78.4
+C0244,Shreya Verma,B.Sc,3,Marketing,Rejected,64,74,83,73.7
+C0245,Sameer Kumar,MCA,3,Finance,Selected,94,70,65,75.7
+C0246,Srinivas Das,M.Sc,12,IT,Under Review,72,48,95,69.3
+C0247,Aniket Menon,MBA,8,Sales,Selected,60,88,61,71.5
+C0248,Ananya Bhat,MBA,11,Data Analytics,Rejected,72,60,83,70.5
+C0249,Akshara Kulkarni,B.Tech,6,Finance,Under Review,86,48,76,67.8
+C0250,Gauri Nair,MCA,8,HR,Under Review,94,47,65,66.5
+C0251,Pradeep Malhotra,M.Tech,15,HR,Selected,92,54,80,73.2
+C0252,Meera Naidu,B.Sc,7,Finance,Selected,94,97,83,91.9
+C0253,Lakshmi Joshi,M.Sc,13,Data Analytics,Under Review,57,60,91,68.4
+C0254,Shruti Agarwal,B.Sc,4,Data Analytics,Rejected,57,68,81,68.6
+C0255,Ramesh Sharma,BBA,8,IT,Under Review,89,50,89,73.4
+C0256,Bhavana Kumar,BBA,0,Data Analytics,Selected,69,84,98,83.7
+C0257,Priya Saxena,M.Tech,7,HR,Rejected,62,58,54,58.0
+C0258,Sameer Saxena,B.Tech,1,Operations,Under Review,86,99,66,85.2
+C0259,Zoya Rana,BCA,3,Sales,Selected,97,71,85,83.0
+C0260,Akash Choudhary,B.Sc,11,IT,Selected,94,98,63,86.3
+C0261,Vaishnavi Agarwal,M.Tech,6,IT,Under Review,73,46,70,61.3
+C0262,Karthik Rao,BCA,7,Operations,Rejected,94,55,84,75.4
+C0263,Nikhita Patel,B.Sc,13,Marketing,Rejected,60,55,54,56.2
+C0264,Zoya Rao,BCA,15,Finance,Selected,82,56,80,71.0
+C0265,Surya Mishra,MBA,15,Data Analytics,Selected,97,97,98,97.3
+C0266,Girish Pillai,M.Sc,11,HR,Under Review,65,89,61,73.4
+C0267,Madhav Iyer,BBA,15,IT,Selected,88,50,79,70.1
+C0268,Rohit Kapoor,M.Sc,5,HR,Rejected,87,61,56,67.3
+C0269,Jahnavi Reddy,BBA,10,R&D,Selected,87,89,95,90.2
+C0270,Sameer Gupta,B.Tech,4,Finance,Selected,96,55,62,69.4
+C0271,Aarav Saxena,B.Sc,10,Sales,Under Review,75,45,70,61.5
+C0272,Varun Bhat,B.Sc,9,Finance,Rejected,75,60,56,63.3
+C0273,Rohit Nair,M.Tech,0,HR,Selected,74,86,56,73.4
+C0274,Siddharth Rana,B.Sc,6,Finance,Selected,60,94,68,76.0
+C0275,Keerthi Mishra,M.Sc,10,Marketing,Selected,96,57,95,80.1
+C0276,Aarav Bhat,M.Tech,6,Finance,Under Review,87,59,81,74.0
+C0277,Zoya Pillai,BBA,1,HR,Selected,66,56,82,66.8
+C0278,Pooja Joshi,M.Tech,9,IT,Selected,84,95,92,90.8
+C0279,Dinesh Mishra,B.Sc,13,Operations,Selected,65,59,87,69.2
+C0280,Ananya Sharma,MCA,10,IT,Under Review,89,66,70,74.1
+C0281,Priya Joshi,BCA,1,R&D,Selected,77,61,65,67.0
+C0282,Varun Naidu,MCA,0,R&D,Rejected,61,72,69,67.8
+C0283,Neha Choudhary,B.Sc,2,Marketing,Rejected,66,45,78,61.2
+C0284,Harsha Pillai,MCA,12,R&D,Rejected,80,48,68,63.6
+C0285,Pavan Reddy,M.Sc,2,Data Analytics,Under Review,90,61,52,67.0
+C0286,Ananya Desai,B.Sc,2,R&D,Under Review,79,48,76,65.7
+C0287,Sneha Reddy,M.Tech,13,HR,Selected,86,57,72,70.2
+C0288,Nandini Bhat,M.Sc,3,Data Analytics,Selected,75,81,57,72.0
+C0289,Harsha Mishra,BBA,1,Sales,Rejected,56,55,55,55.3
+C0290,Ramesh Gupta,MCA,3,HR,Under Review,61,61,72,64.3
+C0291,Srinivas Pandey,B.Sc,10,Data Analytics,Under Review,61,79,54,66.1
+C0292,Dinesh Gupta,BCA,6,Marketing,Selected,55,96,85,80.4
+C0293,Surya Kumar,B.Sc,6,Finance,Selected,92,89,82,87.8
+C0294,Pooja Menon,B.Sc,12,Operations,Selected,95,60,81,76.8
+C0295,Kiran Malhotra,B.Tech,0,Sales,Rejected,64,99,50,73.8
+C0296,Ishita Das,MCA,3,R&D,Under Review,61,53,65,59.0
+C0297,Riya Mehta,BBA,1,HR,Under Review,85,78,65,76.2
+C0298,Srinivas Banerjee,M.Sc,7,Marketing,Under Review,80,80,79,79.7
+C0299,Vikram Saxena,M.Sc,9,IT,Selected,85,95,75,86.0
+C0300,Ishita Menon,MBA,7,R&D,Rejected,65,46,81,62.2
+C0301,Sahil Das,B.Sc,3,Sales,Selected,77,65,81,73.4
+C0302,Pooja Mishra,BBA,8,Data Analytics,Selected,80,88,77,82.3
+C0303,Priya Verma,BCA,12,Marketing,Under Review,72,61,82,70.6
+C0304,Mohit Mehta,B.Tech,5,Marketing,Selected,91,95,64,84.5
+C0305,Divya Rao,MBA,13,Marketing,Under Review,78,64,68,69.4
+C0306,Nandini Pandey,B.Sc,6,Marketing,Under Review,66,82,68,73.0
+C0307,Sneha Banerjee,B.Tech,7,IT,Rejected,71,82,69,74.8
+C0308,Keerthi Pillai,BCA,7,Operations,Selected,86,97,91,91.9
+C0309,Krishna Singh,B.Tech,15,HR,Rejected,56,49,91,63.7
+C0310,Zoya Choudhary,M.Sc,5,Data Analytics,Under Review,55,100,62,75.1
+C0311,Esha Menon,B.Sc,12,HR,Selected,88,72,76,78.0
+C0312,Hema Joshi,MBA,10,Operations,Under Review,67,92,91,84.2
+C0313,Charan Rana,MCA,10,R&D,Selected,92,56,77,73.1
+C0314,Madhav Mehta,M.Sc,5,HR,Selected,97,65,100,85.1
+C0315,Akash Iyer,BCA,3,Finance,Selected,95,76,93,86.8
+C0316,Riya Gupta,M.Sc,4,Finance,Rejected,62,47,60,55.4
+C0317,Abhinav Pandey,BBA,11,HR,Selected,56,78,84,73.2
+C0318,Nikhil Rana,MCA,4,Operations,Selected,91,61,93,79.6
+C0319,Simran Nair,MCA,10,R&D,Under Review,91,52,69,68.8
+C0320,Mohit Banerjee,BBA,4,Operations,Selected,87,57,61,67.2
+C0321,Nikhita Bhat,MCA,13,Marketing,Under Review,59,80,94,77.9
+C0322,Varun Agarwal,BCA,12,R&D,Selected,65,62,87,70.4
+C0323,Dhruv Agarwal,MBA,2,IT,Under Review,80,59,93,75.5
+C0324,Rahul Verma,BCA,3,HR,Under Review,84,53,89,73.1
+C0325,Ashwin Saxena,B.Sc,4,Operations,Under Review,79,97,66,82.3
+C0326,Bharat Sharma,MCA,6,Operations,Under Review,71,67,73,70.0
+C0327,Shreya Patel,M.Sc,5,IT,Under Review,84,58,62,67.0
+C0328,Manish Rao,BBA,4,Sales,Rejected,58,53,89,65.3
+C0329,Tanvi Pandey,M.Tech,10,Marketing,Selected,89,99,71,87.6
+C0330,Sneha Chowdhury,BBA,6,R&D,Selected,89,86,58,78.5
+C0331,Nikhil Banerjee,B.Sc,12,R&D,Selected,65,91,85,81.4
+C0332,Rahul Bhat,B.Sc,5,Data Analytics,Selected,69,100,65,80.2
+C0333,Tejas Desai,M.Sc,13,Finance,Under Review,96,100,50,83.8
+C0334,Aarav Verma,M.Tech,5,IT,Under Review,57,88,59,70.0
+C0335,Neha Saxena,BCA,2,Operations,Under Review,74,75,83,77.1
+C0336,Meera Kapoor,B.Sc,5,HR,Selected,55,98,98,85.1
+C0337,Jahnavi Sinha,BCA,11,Data Analytics,Selected,70,82,94,82.0
+C0338,Monika Rao,BCA,2,IT,Under Review,57,87,57,69.0
+C0339,Deepika Gupta,MBA,10,R&D,Selected,98,100,76,92.2
+C0340,Rohit Sinha,MCA,11,IT,Under Review,74,45,93,68.1
+C0341,Divya Sharma,BCA,4,Operations,Rejected,63,61,51,58.6
+C0342,Nandini Mishra,M.Sc,7,IT,Under Review,69,76,68,71.5
+C0343,Pranav Pillai,B.Sc,10,Marketing,Under Review,90,50,50,62.0
+C0344,Krishna Desai,MBA,6,R&D,Under Review,59,76,52,63.7
+C0345,Sakshi Kulkarni,MBA,6,Sales,Rejected,64,63,88,70.8
+C0346,Ravi Singh,MCA,4,Data Analytics,Selected,94,69,99,85.5
+C0347,Pranav Nair,B.Tech,11,Data Analytics,Under Review,80,97,100,92.8
+C0348,Mohit Sinha,MCA,14,Operations,Selected,78,98,81,86.9
+C0349,Siddharth Kapoor,BCA,0,Finance,Selected,89,65,91,80.0
+C0350,Sahil Patel,B.Sc,2,Marketing,Under Review,64,93,67,76.5
+C0351,Rahul Sharma,B.Sc,1,Data Analytics,Rejected,88,57,68,69.6
+C0352,Ramesh Kulkarni,M.Tech,9,HR,Selected,77,94,67,80.8
+C0353,Keerthi Joshi,M.Tech,14,Finance,Selected,78,67,68,70.6
+C0354,Abhinav Saxena,MCA,14,Marketing,Selected,85,99,100,95.1
+C0355,Ashwin Rana,B.Tech,4,R&D,Under Review,57,99,88,83.1
+C0356,Girish Iyer,B.Sc,9,IT,Selected,95,76,67,79.0
+C0357,Varun Menon,MCA,15,R&D,Selected,59,65,99,73.4
+C0358,Siddharth Naidu,BBA,0,HR,Selected,86,85,54,76.0
+C0359,Ramesh Naidu,BCA,13,Operations,Selected,97,81,100,91.5
+C0360,Lavanya Kumar,MBA,8,R&D,Selected,91,64,60,70.9
+C0361,Pooja Bhat,M.Tech,13,R&D,Rejected,62,71,84,72.2
+C0362,Anjali Iyer,BCA,1,Marketing,Selected,92,93,77,87.9
+C0363,Ravi Bhat,M.Tech,10,Data Analytics,Selected,66,85,89,80.5
+C0364,Rashmi Naidu,B.Sc,15,IT,Selected,65,95,77,80.6
+C0365,Anusha Malhotra,MCA,4,R&D,Under Review,76,86,56,74.0
+C0366,Madhav Pillai,BCA,12,IT,Selected,72,91,88,84.4
+C0367,Aarav Mehta,M.Tech,15,Data Analytics,Selected,77,52,72,65.5
+C0368,Shreya Menon,BCA,8,Data Analytics,Under Review,66,75,79,73.5
+C0369,Aditya Banerjee,MCA,4,Finance,Selected,81,83,72,79.1
+C0370,Vikram Reddy,MCA,11,IT,Under Review,88,64,80,76.0
+C0371,Abhinav Rana,M.Tech,7,Data Analytics,Under Review,70,87,95,84.3
+C0372,Nikhita Chowdhury,BBA,11,Marketing,Under Review,74,58,57,62.5
+C0373,Sneha Sinha,BBA,10,IT,Selected,66,93,58,74.4
+C0374,Akash Pandey,BCA,15,Data Analytics,Selected,92,73,74,79.0
+C0375,Sandeep Joshi,BBA,11,R&D,Selected,84,89,60,78.8
+C0376,Surya Gupta,BBA,13,Data Analytics,Rejected,63,50,83,63.8
+C0377,Zoya Malhotra,BCA,0,HR,Under Review,63,98,73,80.0
+C0378,Lavanya Sharma,M.Tech,6,Marketing,Under Review,75,51,78,66.3
+C0379,Yash Pandey,BCA,9,Operations,Under Review,79,66,90,77.1
+C0380,Ishita Gupta,B.Tech,2,Operations,Under Review,67,82,80,76.9
+C0381,Bhavana Malhotra,MBA,3,HR,Selected,95,49,94,76.3
+C0382,Mahesh Malhotra,MCA,2,Operations,Selected,70,51,99,71.1
+C0383,Akshara Kapoor,B.Tech,11,Data Analytics,Under Review,61,75,84,73.5
+C0384,Kiran Gupta,M.Sc,3,IT,Selected,58,69,77,68.1
+C0385,Raj Nair,MCA,7,R&D,Rejected,75,66,55,65.4
+C0386,Jahnavi Desai,BCA,5,IT,Under Review,67,46,58,55.9
+C0387,Pradeep Pillai,BBA,15,IT,Under Review,88,99,78,89.4
+C0388,Rashmi Das,B.Tech,15,R&D,Under Review,56,73,85,71.5
+C0389,Ishita Naidu,BCA,5,Finance,Under Review,90,96,70,86.4
+C0390,Anjali Pillai,M.Tech,6,Data Analytics,Under Review,68,60,55,60.9
+C0391,Lakshmi Malhotra,M.Sc,0,HR,Under Review,67,62,50,59.9
+C0392,Ananya Mehta,BBA,15,Sales,Under Review,78,72,83,77.1
+C0393,Dinesh Pillai,BBA,8,Data Analytics,Under Review,58,85,74,73.6
+C0394,Charan Choudhary,B.Tech,11,Data Analytics,Selected,80,91,66,80.2
+C0395,Meera Bhat,B.Tech,1,Marketing,Selected,74,83,86,81.2
+C0396,Neha Verma,M.Sc,4,Operations,Under Review,81,86,88,85.1
+C0397,Sneha Desai,BBA,3,Data Analytics,Under Review,75,46,95,69.4
+C0398,Vamsi Kapoor,BBA,14,Finance,Rejected,62,69,59,63.9
+C0399,Simran Gupta,MCA,13,Sales,Selected,84,61,71,70.9
+C0400,Ramesh Joshi,B.Tech,13,Data Analytics,Selected,66,80,58,69.2
+C0401,Riya Patel,BCA,5,HR,Selected,83,76,76,78.1
+C0402,Monika Choudhary,MCA,15,Finance,Selected,71,85,74,77.5
+C0403,Tanvi Mehta,M.Sc,15,Marketing,Selected,83,90,83,85.8
+C0404,Anusha Rao,BBA,6,IT,Under Review,71,55,80,67.3
+C0405,Deepika Nair,B.Tech,5,Finance,Selected,82,91,67,81.1
+C0406,Akshara Naidu,B.Tech,6,Operations,Selected,60,76,92,76.0
+C0407,Ananya Joshi,MCA,11,Operations,Under Review,79,77,65,74.0
+C0408,Raj Singh,M.Tech,0,IT,Under Review,59,85,55,68.2
+C0409,Kiran Kumar,M.Tech,11,IT,Under Review,55,72,97,74.4
+C0410,Mohit Menon,B.Tech,4,IT,Selected,87,77,74,79.1
+C0411,Dinesh Banerjee,MBA,3,Operations,Rejected,64,70,65,66.7
+C0412,Sameer Singh,BBA,5,Marketing,Selected,61,94,85,81.4
+C0413,Pavan Kapoor,B.Sc,1,Data Analytics,Selected,69,76,67,71.2
+C0414,Vaishnavi Pillai,M.Sc,3,Data Analytics,Under Review,81,71,79,76.4
+C0415,Yash Saxena,M.Tech,11,IT,Under Review,82,51,81,69.3
+C0416,Dhruv Rao,B.Sc,2,HR,Rejected,75,75,81,76.8
+C0417,Shruti Das,MCA,3,HR,Selected,78,67,92,77.8
+C0418,Siddharth Bhat,M.Sc,4,R&D,Selected,81,66,98,80.1
+C0419,Karthik Pandey,BCA,11,Finance,Rejected,63,81,50,66.3
+C0420,Tejas Choudhary,BCA,14,Data Analytics,Under Review,85,53,85,72.2
+C0421,Aditya Sharma,M.Tech,1,Sales,Under Review,65,47,71,59.6
+C0422,Krishna Kulkarni,BBA,8,Data Analytics,Selected,61,88,54,69.7
+C0423,Yash Malhotra,MBA,5,Operations,Selected,83,60,74,71.1
+C0424,Sneha Saxena,MCA,11,R&D,Selected,66,50,59,57.5
+C0425,Karthik Kapoor,B.Tech,6,Marketing,Selected,70,53,64,61.4
+C0426,Surya Chowdhury,M.Sc,15,IT,Rejected,85,86,67,80.0
+C0427,Aditi Desai,B.Sc,1,HR,Rejected,89,75,84,81.9
+C0428,Mohit Agarwal,BCA,0,Finance,Selected,93,87,100,92.7
+C0429,Charan Iyer,B.Tech,9,Finance,Selected,69,91,85,82.6
+C0430,Aditya Verma,BCA,13,Data Analytics,Selected,82,59,68,68.6
+C0431,Rohit Rao,B.Tech,2,Sales,Under Review,72,80,79,77.3
+C0432,Pooja Rao,M.Tech,15,IT,Selected,58,67,88,70.6
+C0433,Charan Das,BBA,13,Operations,Under Review,83,46,82,67.9
+C0434,Rahul Agarwal,BBA,9,HR,Under Review,76,58,91,73.3
+C0435,Akash Gupta,MBA,7,Data Analytics,Under Review,60,47,61,55.1
+C0436,Lavanya Pandey,MCA,5,IT,Rejected,86,52,56,63.4
+C0437,Pooja Desai,M.Sc,12,R&D,Selected,95,61,79,76.6
+C0438,Rakesh Kulkarni,M.Sc,0,Marketing,Selected,93,63,97,82.2
+C0439,Kiran Sinha,B.Tech,0,R&D,Under Review,95,86,54,79.1
+C0440,Dhruv Singh,MCA,4,Operations,Rejected,88,53,81,71.9
+C0441,Vamsi Nair,MBA,8,Data Analytics,Under Review,88,59,96,78.8
+C0442,Aditya Saxena,B.Sc,4,Operations,Under Review,96,69,79,80.1
+C0443,Monika Agarwal,M.Sc,11,Marketing,Under Review,98,66,52,71.4
+C0444,Esha Kumar,MCA,11,HR,Rejected,80,87,93,86.7
+C0445,Deepika Rana,MBA,0,Operations,Selected,98,77,81,84.5
+C0446,Aditya Sinha,MBA,3,Operations,Selected,88,68,95,82.1
+C0447,Esha Iyer,BBA,5,Finance,Under Review,78,53,79,68.3
+C0448,Dhruv Iyer,B.Sc,1,Finance,Under Review,81,88,95,88.0
+C0449,Madhav Verma,B.Sc,8,Operations,Selected,74,99,98,91.2
+C0450,Vaishnavi Desai,BBA,0,Operations,Selected,71,82,63,73.0
+C0451,Mahesh Sharma,MCA,0,Marketing,Under Review,97,97,60,85.9
+C0452,Srinivas Naidu,MCA,5,Sales,Selected,98,70,94,85.6
+C0453,Varun Joshi,BBA,14,Data Analytics,Under Review,95,60,79,76.2
+C0454,Charan Patel,MBA,3,Finance,Selected,68,91,72,78.4
+C0455,Manish Reddy,BCA,1,Sales,Selected,77,69,90,77.7
+C0456,Varun Kapoor,B.Sc,3,Operations,Selected,96,77,75,82.1
+C0457,Rakesh Patel,BBA,6,Data Analytics,Under Review,76,72,79,75.3
+C0458,Sahil Bhat,M.Tech,8,Data Analytics,Under Review,72,46,80,64.0
+C0459,Gauri Verma,B.Tech,2,HR,Rejected,66,48,85,64.5
+C0460,Gauri Mishra,MCA,3,HR,Selected,73,88,91,84.4
+C0461,Rahul Mehta,M.Tech,7,Sales,Under Review,62,86,75,75.5
+C0462,Jahnavi Pandey,B.Sc,14,HR,Under Review,76,58,61,64.3
+C0463,Esha Reddy,M.Tech,14,R&D,Selected,85,62,69,71.0
+C0464,Ramesh Kapoor,M.Sc,1,R&D,Selected,80,94,60,79.6
+C0465,Rohit Reddy,BCA,5,HR,Selected,88,87,68,81.6
+C0466,Pradeep Choudhary,M.Sc,2,Operations,Selected,57,94,82,79.3
+C0467,Nikhita Gupta,BCA,4,HR,Selected,73,86,87,82.4
+C0468,Siddharth Verma,BBA,9,IT,Selected,84,86,95,88.1
+C0469,Ramesh Mehta,MBA,3,Finance,Under Review,77,82,54,72.1
+C0470,Kavya Banerjee,B.Tech,1,HR,Rejected,65,66,84,71.1
+C0471,Sakshi Reddy,MCA,9,Operations,Selected,59,88,92,80.5
+C0472,Karthik Menon,BBA,12,Finance,Selected,93,84,72,83.1
+C0473,Rashmi Agarwal,B.Tech,5,HR,Under Review,59,81,81,74.4
+C0474,Sameer Desai,B.Sc,13,Marketing,Under Review,75,67,73,71.2
+C0475,Raj Pandey,B.Sc,12,R&D,Rejected,96,48,61,66.3
+C0476,Sandeep Pandey,BBA,10,R&D,Selected,87,71,86,80.3
+C0477,Anusha Chowdhury,BBA,4,R&D,Selected,77,76,64,72.7
+C0478,Girish Agarwal,B.Sc,15,Operations,Under Review,77,60,56,63.9
+C0479,Madhav Kumar,M.Sc,2,Finance,Rejected,60,50,63,56.9
+C0480,Naveen Desai,MBA,13,HR,Selected,78,81,76,78.6
+C0481,Gauri Das,MBA,6,Sales,Under Review,91,88,67,82.6
+C0482,Shreya Rana,MCA,9,IT,Rejected,60,71,90,73.4
+C0483,Ishita Sinha,B.Tech,11,IT,Rejected,60,49,76,60.4
+C0484,Zoya Reddy,MCA,10,R&D,Selected,55,97,89,82.0
+C0485,Bhavana Kapoor,B.Tech,4,Operations,Selected,91,92,58,81.5
+C0486,Rakesh Sharma,BBA,8,IT,Selected,98,65,70,76.4
+C0487,Akash Joshi,M.Sc,6,Marketing,Under Review,77,67,84,75.1
+C0488,Srinivas Sharma,MCA,10,HR,Selected,96,96,52,82.8
+C0489,Zoya Naidu,BBA,10,Data Analytics,Under Review,71,55,100,73.3
+C0490,Ananya Nair,MCA,4,Operations,Rejected,80,75,56,70.8
+C0491,Tejas Nair,B.Sc,4,HR,Rejected,93,46,72,67.9
+C0492,Lavanya Chowdhury,BCA,3,Data Analytics,Under Review,97,61,63,72.4
+C0493,Anjali Das,BCA,3,R&D,Rejected,77,75,80,77.1
+C0494,Naveen Gupta,B.Tech,15,Marketing,Selected,97,90,52,80.7
+C0495,Dinesh Pandey,MBA,13,Operations,Under Review,63,71,83,72.2
+C0496,Kavya Saxena,BBA,4,IT,Rejected,58,54,68,59.4
+C0497,Ananya Rao,BCA,3,R&D,Under Review,97,63,55,70.8
+C0498,Aniket Verma,B.Sc,10,R&D,Under Review,57,74,96,75.5
+C0499,Aarav Choudhary,MCA,4,Marketing,Selected,72,77,87,78.5
+C0500,Mohit Kulkarni,M.Tech,15,Operations,Selected,59,55,96,68.5
+C0501,Abhinav Iyer,MBA,1,R&D,Rejected,96,85,90,89.8
+C0502,Pradeep Kumar,BCA,0,Operations,Rejected,83,60,74,71.1
+C0503,Kiran Nair,BBA,14,IT,Selected,55,58,100,69.7
+C0504,Vikram Joshi,BCA,3,IT,Rejected,85,53,73,68.6
+C0505,Rahul Rana,MBA,2,HR,Under Review,95,46,97,76.0
+C0506,Ramesh Das,MBA,14,Marketing,Rejected,66,51,63,59.1
+C0507,Sameer Das,B.Sc,8,Finance,Rejected,95,59,80,76.1
+C0508,Srinivas Malhotra,B.Sc,0,Sales,Rejected,62,75,54,64.8
+C0509,Gauri Reddy,MBA,14,IT,Under Review,58,63,88,69.0
+C0510,Raj Rana,BCA,9,Operations,Selected,92,99,70,88.2
+C0511,Simran Kulkarni,MBA,1,HR,Selected,88,96,55,81.3
+C0512,Harsha Agarwal,BCA,4,Finance,Selected,64,70,72,68.8
+C0513,Naveen Mehta,B.Sc,2,Marketing,Selected,98,81,92,89.4
+C0514,Tejas Sharma,M.Sc,11,Operations,Selected,82,84,98,87.6
+C0515,Shivani Mishra,MCA,12,Operations,Selected,89,84,88,86.7
+C0516,Harsha Chowdhury,B.Sc,7,R&D,Selected,79,51,93,72.0
+C0517,Ishita Joshi,B.Tech,12,Marketing,Under Review,81,55,80,70.3
+C0518,Anjali Saxena,BCA,0,IT,Selected,91,52,78,71.5
+C0519,Karthik Iyer,M.Sc,2,Data Analytics,Under Review,90,51,78,70.8
+C0520,Yash Singh,BBA,13,IT,Under Review,83,45,67,63.0
+C0521,Keerthi Verma,MBA,9,IT,Selected,90,60,71,72.3
+C0522,Kiran Agarwal,BBA,5,Sales,Under Review,78,58,77,69.7
+C0523,Pranav Menon,B.Sc,1,HR,Rejected,83,49,50,59.5
+C0524,Arjun Pandey,BBA,5,Operations,Under Review,93,99,57,84.6
+C0525,Vikram Kapoor,B.Sc,4,Operations,Selected,59,97,91,83.8
+C0526,Zoya Singh,BBA,14,IT,Rejected,72,57,63,63.3
+C0527,Anusha Sinha,BCA,8,Marketing,Under Review,66,84,82,78.0
+C0528,Nandini Joshi,MCA,9,Data Analytics,Rejected,65,97,61,76.6
+C0529,Tejas Rana,MCA,12,Finance,Under Review,86,62,93,78.5
+C0530,Rakesh Pillai,B.Tech,14,Marketing,Under Review,87,89,77,84.8
+C0531,Vikram Naidu,M.Sc,7,R&D,Selected,82,55,68,67.0
+C0532,Chaitanya Reddy,M.Sc,15,HR,Rejected,91,45,51,60.6
+C0533,Meera Singh,M.Sc,14,Finance,Selected,60,79,99,79.3
+C0534,Lakshmi Pillai,M.Tech,5,HR,Under Review,69,69,81,72.6
+C0535,Raj Kumar,M.Sc,11,HR,Rejected,62,79,70,71.2
+C0536,Riya Choudhary,B.Tech,10,R&D,Under Review,55,61,84,66.1
+C0537,Aarav Menon,BBA,0,HR,Under Review,73,62,68,67.1
+C0538,Chaitanya Pandey,B.Sc,0,Finance,Under Review,56,89,51,67.7
+C0539,Manish Mishra,M.Sc,4,IT,Rejected,63,60,68,63.3
+C0540,Mohit Desai,B.Sc,4,Sales,Selected,91,99,64,86.1
+C0541,Abhinav Desai,MBA,0,Finance,Under Review,76,73,71,73.3
+C0542,Sakshi Saxena,BBA,5,Data Analytics,Rejected,85,50,81,69.8
+C0543,Lakshmi Mehta,M.Tech,2,HR,Rejected,55,67,63,62.2
+C0544,Lakshmi Choudhary,B.Tech,7,IT,Under Review,60,82,91,78.1
+C0545,Aarav Kapoor,B.Tech,9,IT,Selected,84,85,64,78.4
+C0546,Lakshmi Rao,B.Tech,2,Marketing,Selected,98,84,94,91.2
+C0547,Aditya Das,BBA,7,Operations,Selected,93,96,80,90.3
+C0548,Yash Verma,MCA,12,Sales,Rejected,62,75,82,73.2
+C0549,Sanjay Choudhary,M.Sc,14,Operations,Under Review,97,46,66,67.3
+C0550,Sameer Nair,BBA,4,HR,Selected,63,100,74,81.1
+C0551,Chaitanya Iyer,B.Tech,13,Finance,Selected,88,91,70,83.8
+C0552,Nikhita Pillai,MCA,15,Operations,Under Review,59,98,67,77.0
+C0553,Nikhil Mehta,BBA,4,HR,Selected,65,94,89,83.8
+C0554,Meera Sharma,M.Tech,12,Marketing,Under Review,78,49,84,68.2
+C0555,Srinivas Rana,M.Sc,0,Finance,Selected,70,92,90,84.8
+C0556,Dinesh Singh,MCA,5,Finance,Rejected,76,48,65,61.5
+C0557,Mahesh Pandey,BCA,1,Data Analytics,Selected,67,96,77,81.6
+C0558,Dinesh Mehta,MCA,10,Finance,Under Review,87,86,87,86.6
+C0559,Hema Pandey,BCA,6,R&D,Selected,82,55,72,68.2
+C0560,Tanvi Kumar,B.Tech,6,Data Analytics,Rejected,58,49,67,57.1
+C0561,Keerthi Agarwal,B.Tech,7,HR,Selected,56,78,64,67.2
+C0562,Sneha Bhat,BBA,14,Operations,Under Review,78,69,77,74.1
+C0563,Ashwin Rao,BCA,8,IT,Rejected,86,70,53,69.7
+C0564,Kavya Mehta,B.Tech,1,Data Analytics,Under Review,93,59,64,70.7
+C0565,Lakshmi Pandey,BCA,7,HR,Selected,57,92,75,76.4
+C0566,Vamsi Kumar,BCA,8,IT,Under Review,65,94,51,72.4
+C0567,Sameer Verma,B.Sc,7,Operations,Rejected,63,54,91,67.8
+C0568,Aarav Naidu,MBA,6,Finance,Selected,82,97,57,80.5
+C0569,Aniket Sharma,B.Sc,15,HR,Rejected,64,53,85,65.9
+C0570,Pradeep Singh,BCA,0,Data Analytics,Rejected,72,69,94,77.4
+C0571,Naveen Menon,B.Tech,13,Marketing,Rejected,89,72,67,75.6
+C0572,Rakesh Banerjee,B.Sc,13,Marketing,Selected,98,94,70,88.0
+C0573,Divya Kumar,MCA,13,IT,Under Review,63,52,95,68.2
+C0574,Charan Naidu,MCA,0,R&D,Selected,91,78,70,79.5
+C0575,Chaitanya Malhotra,BCA,9,IT,Under Review,82,95,82,87.2
+C0576,Keerthi Pandey,BCA,10,Operations,Under Review,70,56,53,59.3
+C0577,Surya Agarwal,MCA,3,HR,Rejected,58,62,70,63.2
+C0578,Lakshmi Iyer,BBA,12,IT,Selected,86,83,99,88.7
+C0579,Deepika Kapoor,MBA,5,IT,Rejected,59,54,78,62.7
+C0580,Neha Joshi,MCA,11,R&D,Under Review,73,52,75,65.2
+C0581,Rohit Pillai,B.Tech,2,Finance,Rejected,75,52,54,59.5
+C0582,Priya Sharma,M.Tech,7,Operations,Rejected,60,69,80,69.6
+C0583,Dhruv Desai,M.Sc,7,Marketing,Selected,82,66,96,79.8
+C0584,Rohit Bhat,M.Sc,3,Marketing,Rejected,66,48,78,62.4
+C0585,Sahil Pillai,MBA,14,Marketing,Under Review,95,78,63,78.6
+C0586,Aniket Agarwal,MBA,10,R&D,Selected,81,53,97,74.6
+C0587,Harsha Rao,B.Sc,12,Data Analytics,Under Review,80,68,54,67.4
+C0588,Simran Singh,B.Sc,5,Marketing,Rejected,85,57,94,76.5
+C0589,Rakesh Desai,B.Tech,11,Finance,Under Review,91,94,97,94.0
+C0590,Sahil Reddy,M.Sc,12,Sales,Under Review,80,59,100,77.6
+C0591,Pranav Agarwal,B.Sc,12,IT,Under Review,85,47,69,65.0
+C0592,Surya Joshi,B.Sc,3,Marketing,Selected,78,46,83,66.7
+C0593,Akash Kumar,BCA,1,Finance,Rejected,81,54,90,72.9
+C0594,Vikram Menon,M.Tech,14,R&D,Rejected,78,97,52,77.8
+C0595,Deepika Joshi,BBA,11,Operations,Rejected,58,83,76,73.4
+C0596,Siddharth Rao,BBA,0,Marketing,Rejected,88,67,59,70.9
+C0597,Ashwin Pandey,B.Sc,10,R&D,Rejected,65,58,57,59.8
+C0598,Pradeep Pandey,M.Tech,5,Sales,Selected,88,57,93,77.1
+C0599,Anjali Verma,B.Tech,10,HR,Selected,93,74,73,79.4
+C0600,Abhinav Rao,M.Tech,5,IT,Selected,73,95,94,88.1
+C0601,Sakshi Iyer,M.Sc,4,IT,Rejected,89,57,51,64.8
+C0602,Bhavana Pillai,MBA,4,Data Analytics,Rejected,83,59,50,63.5
+C0603,Dinesh Joshi,MCA,10,Data Analytics,Under Review,85,97,57,81.4
+C0604,Sandeep Kumar,M.Sc,12,Finance,Under Review,71,87,83,81.0
+C0605,Aditya Desai,MCA,7,IT,Rejected,65,53,50,55.7
+C0606,Arjun Das,B.Sc,14,IT,Under Review,60,84,98,81.0
+C0607,Ashwin Patel,BCA,6,HR,Selected,92,81,74,82.2
+C0608,Nikhil Patel,B.Sc,3,Data Analytics,Under Review,75,71,59,68.6
+C0609,Tanvi Desai,B.Tech,12,Operations,Selected,59,85,56,68.5
+C0610,Krishna Malhotra,M.Tech,5,Sales,Selected,61,95,96,85.1
+C0611,Varun Gupta,B.Tech,13,R&D,Selected,67,90,81,80.4
+C0612,Charan Singh,M.Sc,4,Marketing,Selected,75,94,63,79.0
+C0613,Gauri Sharma,M.Tech,11,IT,Under Review,60,76,77,71.5
+C0614,Anusha Naidu,BCA,4,Marketing,Selected,62,68,78,69.2
+C0615,Tanvi Kulkarni,BBA,4,R&D,Under Review,61,86,85,78.2
+C0616,Lakshmi Kapoor,BBA,10,Operations,Under Review,89,74,68,76.7
+C0617,Sameer Malhotra,MCA,2,HR,Selected,92,100,92,95.2
+C0618,Vamsi Naidu,B.Sc,5,R&D,Rejected,64,65,72,66.8
+C0619,Abhinav Naidu,BBA,7,Data Analytics,Rejected,93,98,69,87.8
+C0620,Esha Kapoor,B.Tech,14,HR,Under Review,88,90,51,77.7
+C0621,Girish Patel,M.Sc,5,IT,Selected,78,65,65,68.9
+C0622,Pooja Kulkarni,BBA,7,R&D,Rejected,98,71,63,76.7
+C0623,Surya Malhotra,MCA,14,Finance,Under Review,79,68,51,66.2
+C0624,Arjun Choudhary,BBA,3,IT,Selected,97,79,95,89.2
+C0625,Ashwin Bhat,B.Sc,11,Sales,Selected,67,97,64,78.1
+C0626,Krishna Rana,B.Sc,0,IT,Rejected,96,71,65,76.7
+C0627,Ishita Saxena,MBA,10,Operations,Under Review,62,45,100,66.6
+C0628,Sameer Sinha,BCA,12,Finance,Under Review,91,73,50,71.5
+C0629,Pavan Singh,BBA,11,Sales,Rejected,71,69,53,64.8
+C0630,Ishita Desai,MCA,6,HR,Selected,83,62,54,65.9
+C0631,Anusha Kulkarni,MBA,2,Marketing,Under Review,64,74,59,66.5
+C0632,Tejas Rao,B.Sc,6,HR,Selected,86,99,91,92.7
+C0633,Pavan Pillai,MBA,14,HR,Under Review,95,62,100,83.3
+C0634,Manish Kapoor,M.Tech,14,Sales,Selected,82,60,82,73.2
+C0635,Vaishnavi Chowdhury,MCA,6,Operations,Under Review,78,59,80,71.0
+C0636,Sanjay Malhotra,B.Sc,0,Data Analytics,Rejected,88,56,61,67.1
+C0637,Harsha Naidu,M.Tech,2,Marketing,Rejected,91,59,64,70.1
+C0638,Ananya Saxena,M.Tech,5,Finance,Rejected,92,48,58,64.2
+C0639,Rahul Pandey,M.Sc,2,Data Analytics,Rejected,67,91,91,83.8
+C0640,Kavya Rao,M.Tech,5,Sales,Under Review,70,77,79,75.5
+C0641,Rohit Gupta,M.Tech,4,Operations,Selected,60,83,99,80.9
+C0642,Aditi Iyer,MCA,4,Finance,Selected,72,57,83,69.3
+C0643,Zoya Patel,MBA,11,HR,Under Review,85,97,61,82.6
+C0644,Aarav Iyer,B.Tech,9,Marketing,Rejected,67,58,79,67.0
+C0645,Girish Saxena,B.Tech,13,Sales,Selected,81,94,51,77.2
+C0646,Bhavana Nair,BBA,12,Sales,Rejected,86,78,69,77.7
+C0647,Tejas Iyer,B.Tech,13,Finance,Under Review,90,49,100,76.6
+C0648,Shreya Agarwal,MBA,15,HR,Rejected,78,51,52,59.4
+C0649,Neha Desai,M.Sc,9,Data Analytics,Selected,88,83,68,80.0
+C0650,Ashwin Choudhary,MBA,8,IT,Selected,83,88,64,79.3
+C0651,Ramesh Banerjee,M.Tech,14,Operations,Under Review,75,87,53,73.2
+C0652,Akshara Reddy,MBA,0,R&D,Selected,90,90,98,92.4
+C0653,Rohit Desai,MBA,8,R&D,Under Review,68,56,77,65.9
+C0654,Akshara Singh,BBA,10,R&D,Selected,77,94,69,81.4
+C0655,Rahul Banerjee,M.Tech,14,Marketing,Under Review,75,92,97,88.4
+C0656,Akshara Kumar,BCA,6,R&D,Under Review,63,75,69,69.6
+C0657,Harsha Malhotra,BBA,3,HR,Rejected,87,76,86,82.3
+C0658,Surya Desai,MBA,9,Finance,Under Review,56,61,76,64.0
+C0659,Madhav Menon,MBA,5,R&D,Under Review,73,60,99,75.6
+C0660,Siddharth Kumar,M.Tech,2,Finance,Selected,84,83,72,80.0
+C0661,Aditi Joshi,M.Sc,11,IT,Selected,66,69,92,75.0
+C0662,Pavan Gupta,MBA,10,Finance,Selected,55,66,99,72.6
+C0663,Meera Sinha,BCA,15,Sales,Under Review,89,96,73,87.0
+C0664,Vikram Sharma,MCA,1,Operations,Rejected,74,79,54,70.0
+C0665,Pradeep Menon,MBA,7,Marketing,Selected,78,70,66,71.2
+C0666,Ishita Malhotra,M.Tech,13,Data Analytics,Under Review,85,72,64,73.5
+C0667,Gauri Chowdhury,MBA,4,HR,Rejected,62,51,54,55.2
+C0668,Mohit Kumar,M.Tech,0,Sales,Selected,56,76,87,73.3
+C0669,Pooja Mehta,MCA,11,R&D,Selected,82,80,84,81.8
+C0670,Anusha Gupta,B.Sc,7,Sales,Rejected,68,77,78,74.6
+C0671,Abhinav Choudhary,B.Sc,5,HR,Selected,72,81,80,78.0
+C0672,Harsha Kulkarni,M.Tech,3,R&D,Rejected,85,89,60,79.1
+C0673,Nikhita Singh,B.Tech,3,R&D,Under Review,67,55,93,70.0
+C0674,Mahesh Gupta,M.Sc,5,Finance,Under Review,77,56,73,67.4
+C0675,Meera Chowdhury,BBA,6,Sales,Under Review,83,51,79,69.0
+C0676,Naveen Agarwal,M.Sc,11,Marketing,Under Review,76,61,100,77.2
+C0677,Aniket Pandey,MBA,8,Data Analytics,Rejected,61,51,56,55.5
+C0678,Bharat Nair,MCA,2,Finance,Under Review,85,55,97,76.6
+C0679,Nandini Mehta,BCA,2,R&D,Under Review,95,51,71,70.2
+C0680,Vamsi Malhotra,MBA,9,Sales,Rejected,66,57,71,63.9
+C0681,Divya Agarwal,M.Sc,1,Operations,Selected,77,52,94,72.1
+C0682,Tanvi Menon,MBA,5,Data Analytics,Selected,93,60,77,75.0
+C0683,Yash Patel,BCA,13,HR,Selected,58,98,54,72.8
+C0684,Ashwin Banerjee,B.Sc,10,IT,Selected,69,93,93,85.8
+C0685,Bharat Chowdhury,MBA,7,R&D,Under Review,86,72,65,74.1
+C0686,Vamsi Joshi,M.Sc,12,Marketing,Rejected,60,99,61,75.9
+C0687,Kavya Pandey,MCA,2,R&D,Selected,95,62,74,75.5
+C0688,Lakshmi Chowdhury,MBA,0,R&D,Rejected,77,59,98,76.1
+C0689,Rakesh Reddy,M.Tech,11,Data Analytics,Selected,87,99,80,89.7
+C0690,Madhav Rana,M.Sc,3,IT,Under Review,61,85,76,75.1
+C0691,Nikhil Kumar,B.Tech,3,IT,Selected,80,95,90,89.0
+C0692,Sandeep Sharma,M.Tech,12,Operations,Selected,87,69,77,76.8
+C0693,Tanvi Malhotra,B.Tech,11,HR,Selected,61,58,93,69.4
+C0694,Divya Mehta,B.Sc,6,IT,Selected,98,72,99,87.9
+C0695,Ishita Sharma,BCA,2,HR,Rejected,96,50,93,76.7
+C0696,Keerthi Malhotra,BCA,12,Finance,Selected,83,59,60,66.5
+C0697,Ramesh Rao,B.Sc,5,Finance,Under Review,97,67,52,71.5
+C0698,Rohit Verma,MCA,15,Marketing,Selected,63,73,71,69.4
+C0699,Abhinav Kulkarni,B.Tech,6,Sales,Rejected,60,56,64,59.6
+C0700,Lavanya Singh,M.Sc,10,Marketing,Under Review,67,82,84,78.1
+C0701,Srinivas Reddy,B.Sc,11,Operations,Under Review,67,45,85,63.6
+C0702,Aarav Sinha,BBA,14,Finance,Rejected,90,45,74,67.2
+C0703,Shruti Joshi,B.Tech,7,Marketing,Selected,65,85,85,79.0
+C0704,Anjali Malhotra,M.Sc,2,Operations,Selected,57,46,73,57.4
+C0705,Varun Mehta,M.Tech,1,Operations,Under Review,92,67,57,71.5
+C0706,Vamsi Das,B.Sc,15,Data Analytics,Selected,70,96,77,82.5
+C0707,Zoya Verma,M.Sc,9,R&D,Selected,59,94,78,78.7
+C0708,Tanvi Pillai,M.Tech,9,IT,Selected,66,78,72,72.6
+C0709,Dinesh Bhat,M.Tech,8,R&D,Selected,68,47,89,65.9
+C0710,Nikhita Rana,M.Tech,12,R&D,Rejected,65,50,54,55.7
+C0711,Akash Patel,BBA,14,Sales,Selected,59,95,53,71.6
+C0712,Vamsi Saxena,B.Sc,12,Operations,Under Review,58,76,76,70.6
+C0713,Anusha Kumar,BCA,15,HR,Rejected,78,79,66,74.8
+C0714,Vikram Mehta,B.Sc,10,Operations,Selected,69,69,63,67.2
+C0715,Aditi Menon,BCA,5,IT,Under Review,80,61,59,66.1
+C0716,Raj Joshi,B.Tech,7,HR,Under Review,95,90,90,91.5
+C0717,Sakshi Rana,B.Tech,1,Data Analytics,Under Review,61,49,73,59.8
+C0718,Siddharth Mishra,MBA,9,Sales,Rejected,87,89,51,77.0
+C0719,Chaitanya Desai,B.Sc,5,Operations,Under Review,64,51,91,66.9
+C0720,Kavya Joshi,M.Sc,4,IT,Selected,86,63,70,72.0
+C0721,Pranav Malhotra,M.Sc,5,Sales,Under Review,75,85,72,78.1
+C0722,Ravi Joshi,B.Sc,1,HR,Selected,91,50,93,75.2
+C0723,Nandini Singh,M.Sc,3,Sales,Under Review,64,71,59,65.3
+C0724,Charan Pandey,M.Tech,9,Operations,Selected,78,96,60,79.8
+C0725,Akshara Rao,BCA,11,Operations,Under Review,84,86,62,78.2
+C0726,Pavan Pandey,M.Tech,2,Sales,Rejected,68,68,66,67.4
+C0727,Dinesh Agarwal,MCA,7,R&D,Selected,56,65,71,64.1
+C0728,Nikhil Menon,BCA,4,Sales,Under Review,81,87,90,86.1
+C0729,Vamsi Iyer,M.Tech,6,HR,Selected,90,74,60,74.6
+C0730,Srinivas Mishra,M.Sc,5,R&D,Under Review,69,81,91,80.4
+C0731,Monika Pillai,BBA,4,Data Analytics,Selected,70,67,90,74.8
+C0732,Vamsi Agarwal,M.Sc,2,Finance,Selected,90,84,74,82.8
+C0733,Surya Reddy,BCA,14,Finance,Under Review,60,71,84,71.6
+C0734,Shruti Pandey,MBA,6,Operations,Under Review,93,75,73,79.8
+C0735,Pooja Naidu,B.Tech,2,Data Analytics,Selected,55,68,79,67.4
+C0736,Dinesh Nair,B.Tech,5,Marketing,Rejected,89,53,50,62.9
+C0737,Abhinav Mishra,BCA,8,IT,Rejected,57,54,97,67.8
+C0738,Naveen Kapoor,B.Tech,1,Sales,Under Review,55,55,75,61.0
+C0739,Tanvi Patel,M.Tech,5,Marketing,Under Review,61,71,75,69.2
+C0740,Pavan Iyer,MCA,3,Finance,Rejected,68,94,96,86.8
+C0741,Rohit Kumar,M.Tech,9,Sales,Under Review,87,66,50,67.5
+C0742,Priya Menon,BBA,12,R&D,Rejected,63,54,72,62.1
+C0743,Chaitanya Chowdhury,M.Tech,3,IT,Rejected,83,56,50,62.3
+C0744,Hema Sharma,BBA,2,Operations,Selected,77,92,64,79.1
+C0745,Meera Nair,M.Sc,2,R&D,Selected,90,79,95,87.1
+C0746,Vamsi Desai,B.Tech,10,Operations,Selected,72,83,95,83.3
+C0747,Riya Reddy,BBA,6,Sales,Selected,78,94,80,85.0
+C0748,Kiran Patel,M.Tech,8,HR,Rejected,82,81,70,78.0
+C0749,Aditya Rao,B.Sc,12,Data Analytics,Selected,81,93,69,82.2
+C0750,Varun Singh,B.Sc,14,Marketing,Selected,82,76,58,72.4
+C0751,Monika Menon,M.Sc,6,IT,Selected,77,89,80,82.7
+C0752,Shankar Bhat,B.Sc,3,HR,Selected,88,74,87,82.1
+C0753,Arjun Mehta,B.Sc,15,Finance,Under Review,68,94,58,75.4
+C0754,Gauri Sinha,BCA,8,R&D,Rejected,89,73,72,77.5
+C0755,Sahil Menon,BCA,2,Finance,Selected,96,92,50,80.6
+C0756,Kavya Patel,M.Sc,7,IT,Selected,81,98,83,88.4
+C0757,Shivani Naidu,B.Sc,10,IT,Selected,70,79,61,70.9
+C0758,Manish Patel,BBA,11,R&D,Selected,77,85,94,85.3
+C0759,Rahul Kulkarni,M.Tech,0,Finance,Selected,94,54,94,78.0
+C0760,Harsha Iyer,M.Tech,10,Data Analytics,Selected,86,66,87,78.3
+C0761,Lavanya Verma,B.Sc,6,R&D,Rejected,55,56,68,59.3
+C0762,Sanjay Kulkarni,MCA,3,Marketing,Rejected,79,63,78,72.3
+C0763,Charan Menon,B.Tech,7,Marketing,Under Review,78,51,59,61.5
+C0764,Bharat Malhotra,M.Sc,13,Marketing,Selected,67,65,78,69.5
+C0765,Vamsi Verma,MCA,14,Operations,Selected,81,100,86,90.1
+C0766,Jahnavi Singh,BCA,3,Marketing,Rejected,73,84,63,74.4
+C0767,Ananya Pandey,BCA,5,IT,Selected,96,64,64,73.6
+C0768,Tejas Singh,M.Tech,4,HR,Rejected,74,49,79,65.5
+C0769,Divya Saxena,MCA,0,HR,Under Review,78,63,74,70.8
+C0770,Tejas Banerjee,B.Tech,10,Operations,Rejected,77,47,52,57.5
+C0771,Karthik Choudhary,B.Sc,15,Finance,Selected,82,88,84,85.0
+C0772,Raj Iyer,M.Tech,10,Sales,Selected,92,86,73,83.9
+C0773,Rahul Desai,BCA,0,Marketing,Selected,56,81,53,65.1
+C0774,Shreya Bhat,B.Sc,0,Operations,Selected,61,88,69,74.2
+C0775,Krishna Kapoor,MBA,2,Sales,Under Review,97,82,62,80.5
+C0776,Akash Malhotra,B.Tech,9,Sales,Rejected,58,66,53,59.7
+C0777,Gauri Pillai,M.Sc,8,HR,Under Review,62,88,57,70.9
+C0778,Krishna Das,B.Sc,9,Data Analytics,Selected,83,95,96,91.7
+C0779,Dhruv Joshi,MCA,0,Operations,Selected,71,77,62,70.7
+C0780,Raj Malhotra,M.Tech,6,HR,Selected,73,89,50,72.5
+C0781,Ashwin Sharma,M.Tech,9,Operations,Selected,97,89,72,86.3
+C0782,Vamsi Menon,B.Tech,15,Sales,Under Review,77,70,67,71.2
+C0783,Arjun Chowdhury,B.Tech,2,R&D,Rejected,60,48,63,56.1
+C0784,Bhavana Mishra,MCA,11,Finance,Rejected,59,61,67,62.2
+C0785,Zoya Menon,M.Tech,2,Data Analytics,Selected,97,73,59,76.0
+C0786,Deepika Naidu,MCA,0,Sales,Under Review,56,56,96,68.0
+C0787,Yash Menon,B.Sc,11,Marketing,Rejected,73,46,74,62.5
+C0788,Sneha Mishra,M.Sc,0,Data Analytics,Selected,80,80,92,83.6
+C0789,Lakshmi Agarwal,MBA,4,Data Analytics,Under Review,72,48,100,70.8
+C0790,Ravi Banerjee,MCA,12,Sales,Selected,96,69,85,81.9
+C0791,Raj Saxena,B.Sc,9,Data Analytics,Selected,65,86,61,72.2
+C0792,Simran Reddy,MBA,6,Sales,Selected,93,80,94,88.1
+C0793,Madhav Rao,BCA,7,Finance,Selected,75,64,79,71.8
+C0794,Rahul Menon,M.Tech,8,Finance,Selected,95,85,79,86.2
+C0795,Aditya Menon,B.Tech,12,Operations,Selected,77,91,79,83.2
+C0796,Sneha Kumar,B.Sc,15,R&D,Under Review,98,63,72,76.2
+C0797,Vaishnavi Pandey,B.Sc,11,Sales,Selected,83,98,96,92.9
+C0798,Hema Singh,B.Tech,6,Operations,Under Review,87,93,68,83.7
+C0799,Priya Mehta,M.Sc,5,IT,Under Review,80,62,95,77.3
+C0800,Aditi Sharma,M.Tech,7,R&D,Selected,87,49,94,73.9
+C0801,Simran Choudhary,MBA,6,R&D,Selected,74,71,96,79.4
+C0802,Lavanya Banerjee,M.Tech,5,Finance,Selected,83,87,77,82.8
+C0803,Vikram Chowdhury,M.Tech,3,Operations,Selected,74,65,84,73.4
+C0804,Ananya Naidu,MBA,12,Finance,Under Review,91,67,65,73.6
+C0805,Dhruv Rana,M.Sc,7,Marketing,Selected,83,98,91,91.4
+C0806,Sandeep Kapoor,MBA,0,R&D,Under Review,72,59,82,69.8
+C0807,Ananya Singh,BCA,9,Marketing,Selected,88,98,75,88.1
+C0808,Shreya Reddy,MCA,13,Data Analytics,Selected,75,87,93,85.2
+C0809,Abhinav Pillai,BCA,2,Finance,Selected,90,60,67,71.1
+C0810,Dinesh Rana,MBA,5,Operations,Selected,91,75,99,87.0
+C0811,Neha Nair,B.Tech,1,HR,Selected,89,76,91,84.4
+C0812,Deepika Rao,M.Sc,5,HR,Selected,71,92,87,84.2
+C0813,Arjun Kapoor,B.Sc,3,IT,Selected,85,62,95,78.8
+C0814,Tanvi Sinha,M.Sc,15,IT,Selected,94,92,75,87.5
+C0815,Akshara Das,B.Sc,4,IT,Selected,98,52,85,75.7
+C0816,Anusha Sharma,M.Tech,1,Finance,Rejected,93,45,55,62.4
+C0817,Nikhil Chowdhury,B.Tech,11,Sales,Selected,86,97,82,89.2
+C0818,Nikhil Kapoor,M.Tech,8,IT,Selected,77,85,100,87.1
+C0819,Abhinav Mehta,BCA,10,Finance,Selected,83,76,77,78.4
+C0820,Shankar Pandey,BBA,15,Sales,Under Review,81,82,66,76.9
+C0821,Nikhil Malhotra,BCA,10,Marketing,Rejected,70,52,70,62.8
+C0822,Ananya Reddy,B.Tech,6,Marketing,Selected,75,82,93,83.2
+C0823,Shankar Singh,BCA,15,IT,Selected,65,79,94,79.3
+C0824,Dinesh Kulkarni,B.Tech,12,IT,Selected,98,57,87,78.3
+C0825,Raj Rao,M.Tech,0,R&D,Rejected,59,97,52,72.1
+C0826,Rashmi Iyer,MBA,7,Marketing,Selected,80,100,73,85.9
+C0827,Kiran Chowdhury,MCA,3,Operations,Under Review,91,83,55,77.0
+C0828,Abhinav Verma,BBA,13,HR,Under Review,61,95,83,81.2
+C0829,Karthik Mishra,BBA,2,Sales,Under Review,91,47,87,72.2
+C0830,Vaishnavi Bhat,B.Sc,14,IT,Selected,79,96,59,79.8
+C0831,Aditi Chowdhury,BBA,15,Sales,Under Review,70,59,73,66.5
+C0832,Naveen Naidu,MBA,11,Finance,Selected,80,98,89,89.9
+C0833,Harsha Kapoor,M.Sc,11,Sales,Selected,71,58,81,68.8
+C0834,Manish Desai,MCA,15,IT,Under Review,56,45,89,61.5
+C0835,Ananya Menon,MBA,15,Finance,Rejected,83,45,61,61.2
+C0836,Varun Desai,BCA,12,Sales,Under Review,95,58,56,68.5
+C0837,Meera Pandey,B.Tech,6,Data Analytics,Rejected,62,58,97,70.9
+C0838,Deepika Kumar,BCA,0,HR,Selected,90,100,55,83.5
+C0839,Ananya Kumar,MBA,2,Data Analytics,Selected,80,95,62,80.6
+C0840,Gauri Banerjee,BBA,2,R&D,Selected,59,82,58,67.9
+C0841,Ishita Singh,M.Sc,9,Finance,Rejected,79,45,52,57.3
+C0842,Aditi Kulkarni,BBA,6,Data Analytics,Under Review,78,59,95,75.5
+C0843,Kiran Saxena,MCA,7,Marketing,Selected,88,99,96,94.8
+C0844,Pranav Kapoor,MBA,9,R&D,Under Review,60,66,89,71.1
+C0845,Rahul Gupta,M.Tech,12,Data Analytics,Selected,79,80,51,71.0
+C0846,Shreya Pandey,M.Tech,6,Finance,Under Review,84,85,86,85.0
+C0847,Lakshmi Reddy,BBA,13,Sales,Selected,76,93,83,84.9
+C0848,Gauri Kumar,M.Sc,3,Finance,Under Review,77,74,99,82.4
+C0849,Sneha Choudhary,BBA,6,Sales,Under Review,62,69,89,72.9
+C0850,Jahnavi Agarwal,B.Sc,15,Operations,Rejected,86,87,56,77.4
+C0851,Sahil Banerjee,BCA,8,R&D,Selected,59,76,92,75.7
+C0852,Abhinav Das,BCA,11,Operations,Selected,85,84,94,87.3
+C0853,Girish Pandey,BBA,2,Data Analytics,Under Review,70,55,76,65.8
+C0854,Rahul Choudhary,B.Tech,3,HR,Under Review,60,99,96,86.4
+C0855,Lakshmi Verma,M.Tech,2,Marketing,Selected,68,78,89,78.3
+C0856,Pranav Naidu,BBA,9,IT,Under Review,57,70,89,71.8
+C0857,Shreya Kumar,B.Sc,12,Data Analytics,Under Review,71,76,72,73.3
+C0858,Zoya Kulkarni,B.Sc,13,Finance,Under Review,83,91,95,89.8
+C0859,Madhav Sharma,BBA,4,Data Analytics,Rejected,76,49,93,70.3
+C0860,Harsha Gupta,M.Sc,7,Data Analytics,Under Review,72,65,91,74.9
+C0861,Chaitanya Patel,MBA,3,IT,Rejected,92,88,88,89.2
+C0862,Dinesh Kumar,M.Tech,9,Marketing,Under Review,72,93,59,76.5
+C0863,Sneha Malhotra,M.Tech,8,Sales,Selected,82,60,87,74.7
+C0864,Aditya Naidu,B.Tech,15,Data Analytics,Rejected,68,68,100,77.6
+C0865,Rahul Malhotra,B.Sc,0,Operations,Selected,61,87,83,78.0
+C0866,Pooja Kumar,M.Tech,3,Operations,Selected,60,94,75,78.1
+C0867,Akash Bhat,B.Tech,10,Finance,Rejected,73,58,100,75.1
+C0868,Aditya Nair,MCA,1,Finance,Under Review,90,69,68,75.0
+C0869,Anjali Desai,BBA,12,HR,Rejected,94,60,58,69.6
+C0870,Aniket Banerjee,MBA,3,R&D,Selected,57,62,64,61.1
+C0871,Anjali Sinha,M.Sc,3,Marketing,Selected,98,82,84,87.4
+C0872,Anjali Choudhary,BCA,14,Sales,Rejected,82,47,58,60.8
+C0873,Kiran Menon,M.Sc,13,Finance,Under Review,68,80,78,75.8
+C0874,Akshara Iyer,BBA,3,Finance,Under Review,96,58,54,68.2
+C0875,Abhinav Sinha,BCA,8,Finance,Selected,80,48,67,63.3
+C0876,Rahul Rao,BCA,11,Marketing,Selected,68,73,58,67.0
+C0877,Aniket Rao,BCA,13,R&D,Under Review,55,98,59,73.4
+C0878,Rohit Saxena,M.Sc,9,HR,Under Review,97,64,99,84.4
+C0879,Sahil Rao,B.Sc,4,Sales,Under Review,92,73,68,77.2
+C0880,Jahnavi Malhotra,MCA,3,Sales,Selected,78,88,86,84.4
+C0881,Manish Banerjee,M.Tech,1,HR,Selected,73,93,77,82.2
+C0882,Nandini Patel,BCA,14,Sales,Selected,94,99,74,90.0
+C0883,Sandeep Naidu,BCA,13,Sales,Under Review,71,62,72,67.7
+C0884,Varun Chowdhury,MBA,5,Data Analytics,Selected,91,94,76,87.7
+C0885,Shankar Iyer,MCA,5,Data Analytics,Rejected,85,56,53,63.8
+C0886,Gauri Menon,B.Tech,11,Data Analytics,Under Review,61,57,97,70.2
+C0887,Esha Pillai,B.Tech,11,HR,Rejected,71,73,65,70.0
+C0888,Abhinav Kapoor,MBA,6,Sales,Under Review,80,67,82,75.4
+C0889,Aditi Agarwal,M.Tech,0,Operations,Selected,57,75,76,69.9
+C0890,Arjun Reddy,M.Sc,14,Finance,Selected,83,99,79,88.2
+C0891,Rashmi Choudhary,BCA,12,Operations,Selected,98,73,80,82.6
+C0892,Aditya Chowdhury,B.Sc,15,Data Analytics,Selected,86,83,79,82.7
+C0893,Kiran Singh,MCA,4,Data Analytics,Selected,80,91,79,84.1
+C0894,Sahil Mehta,M.Tech,2,Operations,Selected,88,81,70,79.8
+C0895,Bhavana Sharma,BBA,4,Finance,Under Review,71,82,93,82.0
+C0896,Aarav Patel,BCA,13,Data Analytics,Under Review,93,62,64,71.9
+C0897,Anusha Banerjee,MCA,6,HR,Under Review,69,50,69,61.4
+C0898,Shreya Kulkarni,B.Tech,5,Sales,Selected,56,61,98,70.6
+C0899,Lavanya Mehta,M.Tech,3,HR,Selected,70,89,89,83.3
+C0900,Dhruv Gupta,MBA,5,Data Analytics,Rejected,82,92,95,89.9
+C0901,Harsha Kumar,MCA,11,Marketing,Selected,79,70,59,69.4
+C0902,Hema Rao,M.Tech,4,Data Analytics,Selected,72,47,59,58.1
+C0903,Mahesh Patel,BCA,7,Marketing,Selected,65,80,92,79.1
+C0904,Divya Nair,BBA,12,R&D,Selected,75,89,54,74.3
+C0905,Sneha Kapoor,B.Sc,14,Sales,Under Review,57,50,61,55.4
+C0906,Akash Sinha,MCA,5,Marketing,Under Review,62,100,96,87.4
+C0907,Aditi Choudhary,BCA,6,Sales,Selected,86,50,92,73.4
+C0908,Pooja Patel,BBA,13,R&D,Rejected,89,67,63,72.4
+C0909,Krishna Bhat,MCA,8,Finance,Selected,95,48,68,68.1
+C0910,Krishna Naidu,MBA,15,IT,Selected,63,70,68,67.3
+C0911,Dhruv Sharma,M.Tech,6,Sales,Rejected,70,59,62,63.2
+C0912,Naveen Rao,B.Tech,13,Operations,Under Review,79,50,82,68.3
+C0913,Girish Menon,MCA,1,Finance,Selected,82,71,75,75.5
+C0914,Gauri Rana,B.Sc,12,Marketing,Under Review,77,62,63,66.8
+C0915,Shruti Mishra,MCA,3,Data Analytics,Selected,73,97,67,80.8
+C0916,Aditi Pillai,MBA,4,Operations,Under Review,78,70,54,67.6
+C0917,Karthik Banerjee,B.Tech,7,Data Analytics,Selected,94,95,68,86.6
+C0918,Riya Banerjee,BBA,0,HR,Selected,94,73,74,79.6
+C0919,Esha Nair,BBA,8,Operations,Under Review,68,80,53,68.3
+C0920,Chaitanya Singh,MCA,1,Data Analytics,Selected,72,71,96,78.8
+C0921,Sakshi Mishra,B.Tech,8,Operations,Under Review,95,60,98,81.9
+C0922,Nikhil Desai,BBA,6,Data Analytics,Selected,84,87,63,78.9
+C0923,Rohit Sharma,BBA,15,Marketing,Under Review,80,48,68,63.6
+C0924,Pooja Sharma,MCA,5,R&D,Under Review,98,76,100,89.8
+C0925,Sneha Sharma,BCA,7,HR,Under Review,83,88,56,76.9
+C0926,Mahesh Singh,MBA,15,Marketing,Selected,93,50,89,74.6
+C0927,Rashmi Pandey,BBA,6,Finance,Under Review,62,93,80,79.8
+C0928,Esha Singh,MCA,11,Marketing,Selected,83,89,67,80.6
+C0929,Neha Sinha,MBA,10,Operations,Rejected,62,46,58,54.4
+C0930,Shruti Pillai,M.Tech,12,HR,Under Review,92,66,51,69.3
+C0931,Girish Banerjee,M.Sc,11,Operations,Selected,56,98,99,85.7
+C0932,Vikram Pandey,BCA,1,Finance,Under Review,59,62,67,62.6
+C0933,Siddharth Desai,BBA,13,Marketing,Rejected,96,86,99,92.9
+C0934,Monika Kulkarni,MCA,1,Sales,Selected,86,80,96,86.6
+C0935,Lakshmi Sinha,M.Sc,13,Operations,Selected,78,63,78,72.0
+C0936,Sahil Kumar,M.Tech,8,Operations,Selected,95,74,98,87.5
+C0937,Nandini Rao,MCA,14,HR,Selected,95,69,69,76.8
+C0938,Shivani Choudhary,M.Tech,13,IT,Selected,82,49,88,70.6
+C0939,Mahesh Banerjee,BCA,0,Marketing,Rejected,96,59,60,70.4
+C0940,Pranav Kumar,B.Sc,15,Data Analytics,Under Review,55,79,93,76.0
+C0941,Sahil Verma,BBA,4,Sales,Under Review,98,48,55,65.1
+C0942,Sakshi Rao,MBA,8,HR,Selected,91,59,53,66.8
+C0943,Varun Kulkarni,BCA,1,IT,Selected,97,88,72,85.9
+C0944,Girish Kulkarni,BCA,10,HR,Selected,71,94,78,82.3
+C0945,Esha Choudhary,B.Tech,1,HR,Selected,78,91,99,89.5
+C0946,Manish Malhotra,MCA,15,IT,Under Review,86,60,56,66.6
+C0947,Karthik Kulkarni,M.Sc,2,Sales,Rejected,98,65,90,82.4
+C0948,Manish Saxena,M.Sc,12,R&D,Selected,68,74,56,66.8
+C0949,Ravi Pillai,BBA,9,Data Analytics,Under Review,85,51,61,64.2
+C0950,Mohit Patel,BCA,1,Sales,Selected,59,96,60,74.1
+C0951,Ravi Agarwal,BBA,6,HR,Under Review,98,77,72,81.8
+C0952,Sneha Rana,BBA,14,Marketing,Selected,81,84,87,84.0
+C0953,Hema Kapoor,MBA,3,R&D,Selected,58,93,86,80.4
+C0954,Sahil Choudhary,BCA,2,IT,Selected,96,81,51,76.5
+C0955,Meera Malhotra,B.Sc,3,IT,Selected,78,85,88,83.8
+C0956,Sanjay Agarwal,BBA,7,Operations,Under Review,82,76,81,79.3
+C0957,Riya Menon,B.Sc,5,Data Analytics,Under Review,65,54,61,59.4
+C0958,Siddharth Singh,B.Sc,0,Data Analytics,Selected,93,70,91,83.2
+C0959,Kiran Pandey,MCA,9,HR,Selected,97,59,67,72.8
+C0960,Aniket Bhat,BCA,14,Marketing,Rejected,59,46,67,56.2
+C0961,Jahnavi Mishra,BCA,5,R&D,Under Review,60,45,99,65.7
+C0962,Shreya Saxena,BCA,15,R&D,Selected,73,76,100,82.3
+C0963,Arjun Kulkarni,M.Tech,5,Sales,Selected,80,87,68,79.2
+C0964,Rakesh Iyer,BCA,12,IT,Under Review,87,68,90,80.3
+C0965,Aarav Sharma,BBA,8,R&D,Selected,61,89,96,82.7
+C0966,Vikram Das,MBA,4,Marketing,Selected,83,55,88,73.3
+C0967,Madhav Desai,B.Sc,12,Sales,Under Review,70,71,76,72.2
+C0968,Priya Malhotra,B.Tech,5,R&D,Under Review,95,99,88,94.5
+C0969,Akash Kulkarni,B.Sc,8,R&D,Selected,96,46,94,75.4
+C0970,Sneha Naidu,MCA,2,Marketing,Under Review,76,53,79,67.7
+C0971,Deepika Sharma,BBA,0,R&D,Under Review,68,55,84,67.6
+C0972,Kiran Mishra,M.Sc,12,HR,Selected,87,99,69,86.4
+C0973,Keerthi Chowdhury,BBA,3,Marketing,Selected,88,51,54,63.0
+C0974,Sahil Chowdhury,M.Sc,5,Marketing,Selected,77,84,86,82.5
+C0975,Ashwin Gupta,M.Tech,3,HR,Rejected,89,57,78,72.9
+C0976,Ananya Kapoor,BBA,11,Finance,Under Review,87,83,59,77.0
+C0977,Simran Iyer,BBA,2,R&D,Under Review,86,60,60,67.8
+C0978,Monika Chowdhury,BCA,7,Finance,Selected,55,100,93,84.4
+C0979,Kiran Choudhary,M.Sc,11,Operations,Selected,57,94,93,82.6
+C0980,Zoya Gupta,BCA,3,Operations,Under Review,82,56,76,69.8
+C0981,Pradeep Patel,MBA,11,Data Analytics,Under Review,98,73,64,77.8
+C0982,Hema Naidu,M.Tech,1,Data Analytics,Under Review,82,52,88,71.8
+C0983,Bhavana Patel,B.Sc,12,Data Analytics,Selected,73,99,100,91.5
+C0984,Tejas Agarwal,MCA,1,R&D,Selected,89,96,69,85.8
+C0985,Priya Chowdhury,M.Tech,6,Finance,Under Review,58,67,89,70.9
+C0986,Priya Patel,MBA,15,Operations,Selected,89,58,97,79.0
+C0987,Girish Rao,B.Tech,3,Marketing,Selected,71,74,81,75.2
+C0988,Ishita Kumar,B.Tech,1,Finance,Under Review,94,64,74,76.0
+C0989,Mahesh Sinha,BBA,1,Data Analytics,Selected,58,56,80,63.8
+C0990,Karthik Desai,MBA,15,Marketing,Selected,67,76,99,80.2
+C0991,Chaitanya Mehta,M.Tech,10,R&D,Under Review,58,46,100,65.8
+C0992,Ravi Sharma,M.Tech,2,HR,Under Review,91,50,95,75.8
+C0993,Manish Pandey,BBA,6,Marketing,Under Review,75,97,68,81.7
+C0994,Krishna Sinha,M.Tech,3,Marketing,Selected,93,95,94,94.1
+C0995,Aditi Singh,B.Sc,6,Operations,Rejected,94,62,67,73.1
+C0996,Bharat Das,B.Sc,10,Finance,Selected,83,98,79,87.8
+C0997,Bharat Pillai,B.Tech,14,IT,Under Review,94,61,52,68.2
+C0998,Krishna Reddy,MCA,6,HR,Under Review,89,98,99,95.6
+C0999,Chaitanya Das,MCA,10,Marketing,Selected,93,61,50,67.3
+C1000,Keerthi Saxena,MBA,5,Finance,Under Review,71,59,82,69.5
